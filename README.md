@@ -1,2 +1,3 @@
-# projetos-de-estudos-web
-Pequenos projetos para fixar conhecimentos no desenvolvimento web
+# Projetos de Estudos Web
+
+Neste repositório, estão alguns pequenos projetos, que utilizei para fixar conhecimentos do desenvolvimento web
